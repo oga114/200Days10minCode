@@ -10,3 +10,6 @@ TypeScriptで離散数学、証明技術の実装サンプルを追加。
 
 Day 3：
 Laravelのコード修正。
+
+Day 4：
+CodeBuild用のshellを作成。
