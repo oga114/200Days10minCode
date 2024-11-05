@@ -13,3 +13,8 @@ Laravelのコード修正。
 
 Day 4：
 CodeBuild用のshellを作成。
+
+Day 5：
+jsによるアニメーション処理の修正。
+Laravelのコード修正。
+ドキュメント作成。
