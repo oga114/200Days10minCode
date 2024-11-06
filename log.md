@@ -18,3 +18,7 @@ Day 5：
 jsによるアニメーション処理の修正。
 Laravelのコード修正。
 ドキュメント作成。
+
+Day 6：
+astroの修正(TypeScript)。
+他、TypeScriptのリポジトリをupdate
