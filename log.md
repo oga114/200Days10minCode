@@ -22,3 +22,8 @@ Laravelのコード修正。
 Day 6：
 astroの修正(TypeScript)。
 他、TypeScriptのリポジトリをupdate
+
+Day 7：
+astroの修正(CSS)。
+他、TypeScriptのリポジトリをupdate
+CodeBuildのシェルを修正。
