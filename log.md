@@ -27,3 +27,8 @@ Day 7：
 astroの修正(CSS)。
 他、TypeScriptのリポジトリをupdate
 CodeBuildのシェルを修正。
+
+Day 8：
+TypeScriptの日。
+cdnとクライアントサイドで実行されるjsの処理順を変更。
+Laravelのコード修正。
