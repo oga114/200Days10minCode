@@ -32,3 +32,9 @@ Day 8：
 TypeScriptの日。
 cdnとクライアントサイドで実行されるjsの処理順を変更。
 Laravelのコード修正。
+
+Day 9：
+Laravelのコード修正。
+
+Day 10：
+Laravelのコード修正。
