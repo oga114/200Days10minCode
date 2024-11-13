@@ -44,3 +44,6 @@ TypeScriptの日。
 
 Day 12：
 TypeScriptの日。
+
+Day 13：
+TypeScriptの日。
