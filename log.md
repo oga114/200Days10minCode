@@ -53,3 +53,6 @@ TypeScriptの日。
 
 Day 15：
 TypeScriptの日。
+
+Day 16：
+Laravelのコード修正。
