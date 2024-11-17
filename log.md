@@ -56,3 +56,6 @@ TypeScriptの日。
 
 Day 16：
 Laravelのコード修正。
+
+Day 17：
+Pythonの日。
