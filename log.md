@@ -59,3 +59,6 @@ Laravelのコード修正。
 
 Day 17：
 Pythonの日。
+
+Day 18：
+TypeScriptの日。
