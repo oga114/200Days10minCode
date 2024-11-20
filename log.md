@@ -65,3 +65,6 @@ TypeScriptの日。
 
 Day 19：
 TypeScriptの日とPythonの日。
+
+Day 20：
+TypeScriptの日とLaravelの日。
