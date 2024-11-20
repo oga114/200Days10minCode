@@ -62,3 +62,6 @@ Pythonの日。
 
 Day 18：
 TypeScriptの日。
+
+Day 19：
+TypeScriptの日とPythonの日。
