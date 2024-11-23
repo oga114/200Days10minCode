@@ -71,3 +71,6 @@ TypeScriptの日とLaravelの日。
 
 Day 21：
 Pythonの日。
+
+Day 22：
+Pythonの日。
