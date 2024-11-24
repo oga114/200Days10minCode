@@ -74,3 +74,6 @@ Pythonの日。
 
 Day 22：
 Pythonの日。
+
+Day 23：
+CSSの日。
