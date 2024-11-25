@@ -77,3 +77,6 @@ Pythonの日。
 
 Day 23：
 CSSの日。
+
+Day 24：
+Pythonの日。
