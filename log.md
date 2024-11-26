@@ -80,3 +80,6 @@ CSSの日。
 
 Day 24：
 Pythonの日。
+
+Day 25：
+TypeScriptの日。
