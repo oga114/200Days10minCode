@@ -83,3 +83,6 @@ Pythonの日。
 
 Day 25：
 TypeScriptの日。
+
+Day 26：
+TypeScriptの日。
