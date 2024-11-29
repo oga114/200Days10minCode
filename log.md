@@ -89,3 +89,6 @@ TypeScriptの日。
 
 Day 27：
 インフラ本読む。
+
+Day 28：
+TypeScriptの日。
