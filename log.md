@@ -92,3 +92,6 @@ Day 27：
 
 Day 28：
 TypeScriptの日。
+
+Day 29：
+Pythonの日。
