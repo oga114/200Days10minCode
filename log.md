@@ -95,3 +95,6 @@ TypeScriptの日。
 
 Day 29：
 Pythonの日。
+
+Day 30：
+Pythonの日。
