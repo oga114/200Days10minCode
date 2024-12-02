@@ -98,3 +98,6 @@ Pythonの日。
 
 Day 30：
 Pythonの日。
+
+Day 31：
+Pythonの日。
