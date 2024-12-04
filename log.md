@@ -104,3 +104,6 @@ Pythonの日。
 
 Day 32：
 TypeScriptとPythonの日。
+
+Day 33：
+TypeScriptとPythonの日。
