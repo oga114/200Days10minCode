@@ -110,3 +110,6 @@ TypeScriptとPythonの日。
 
 Day 34：
 今日はWindows11のタスクスケジューラの設定方法をまとめた。Windowsのローカル開発環境で手軽にスクリプトを実行できるので工夫次第では開発の効率化できて良さそう。
+
+Day 35：
+TypeScriptとPythonの日。
