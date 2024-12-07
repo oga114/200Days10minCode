@@ -113,3 +113,6 @@ Day 34：
 
 Day 35：
 TypeScriptとPythonの日。
+
+Day 36：
+Railsの日。
