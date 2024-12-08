@@ -116,3 +116,6 @@ TypeScriptとPythonの日。
 
 Day 36：
 Railsの日。
+
+Day 37：
+Pythonの日。
