@@ -119,3 +119,6 @@ Railsの日。
 
 Day 37：
 Pythonの日。
+
+Day 38：
+Laravelの日。
