@@ -125,3 +125,6 @@ Laravelの日。
 
 Day 39：
 Pythonの日。
+
+Day 49：
+Pythonの日。
