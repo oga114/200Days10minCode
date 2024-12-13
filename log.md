@@ -128,3 +128,6 @@ Pythonの日。
 
 Day 40：
 TypeScriptの日。
+
+Day 41：
+TypeScriptの日。
