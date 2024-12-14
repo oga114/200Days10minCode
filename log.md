@@ -131,3 +131,6 @@ TypeScriptの日。
 
 Day 41：
 TypeScriptの日。
+
+Day 42：
+設計について学習。
