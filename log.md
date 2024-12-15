@@ -134,3 +134,6 @@ TypeScriptの日。
 
 Day 42：
 設計について学習。
+
+Day 43：
+TypeScriptの日。Qiitaに記事投稿。
