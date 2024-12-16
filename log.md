@@ -137,3 +137,6 @@ Day 42：
 
 Day 43：
 TypeScriptの日。Qiitaに記事投稿。
+
+Day 44：
+TypeScriptの日。
