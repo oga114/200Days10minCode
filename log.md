@@ -140,3 +140,6 @@ TypeScriptの日。Qiitaに記事投稿。
 
 Day 44：
 TypeScriptの日。
+
+Day 45：
+TypeScriptの日。
