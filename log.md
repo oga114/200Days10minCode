@@ -143,3 +143,6 @@ TypeScriptの日。
 
 Day 45：
 TypeScriptの日。
+
+Day 46：
+TypeScriptの日。
