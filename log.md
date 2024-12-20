@@ -149,3 +149,6 @@ TypeScriptの日。
 
 Day 47：
 TypeScriptの日。
+
+Day 48：
+TypeScriptの日。
