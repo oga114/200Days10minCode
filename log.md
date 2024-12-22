@@ -155,3 +155,6 @@ TypeScriptの日。
 
 Day 49：
 TypeScriptの日。
+
+Day 50：
+Laravelの日。
