@@ -167,3 +167,6 @@ TypeScriptの日。
 
 Day 53：
 React19を触ってみた。
+
+Day 54：
+TypeScriptの日。
