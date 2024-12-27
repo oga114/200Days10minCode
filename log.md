@@ -170,3 +170,6 @@ React19を触ってみた。
 
 Day 54：
 TypeScriptの日。
+
+Day 55：
+Next.jsの日。
