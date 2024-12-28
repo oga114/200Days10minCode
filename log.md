@@ -173,3 +173,6 @@ TypeScriptの日。
 
 Day 55：
 Next.jsの日。
+
+Day 56：
+Next.jsの日。
