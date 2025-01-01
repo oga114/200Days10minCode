@@ -185,3 +185,6 @@ Next.jsの日。
 
 Day 59：
 Next.jsの日。
+
+Day 60：
+Next.jsの日。
