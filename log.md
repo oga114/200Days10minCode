@@ -200,3 +200,6 @@ Next.jsの日。
 
 Day 64：
 Next.jsの日。
+
+Day 65：
+TypeScriptの日。
