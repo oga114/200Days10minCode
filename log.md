@@ -206,3 +206,6 @@ TypeScriptの日。
 
 Day 66：
 Next.jsの日。
+
+Day 67：
+TypeScriptの日。
