@@ -212,3 +212,6 @@ TypeScriptの日。
 
 Day 68：
 TypeScriptの日。
+
+Day 69：
+TypeScriptの日。
