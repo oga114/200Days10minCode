@@ -215,3 +215,6 @@ TypeScriptの日。
 
 Day 69：
 TypeScriptの日。
+
+Day 70：
+React Router v7を触ってみた。
