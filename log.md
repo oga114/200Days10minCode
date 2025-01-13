@@ -221,3 +221,6 @@ React Router v7を触ってみた。
 
 Day 71：
 React Router v7を触ってみた。
+
+Day 72：
+React Router v7。
