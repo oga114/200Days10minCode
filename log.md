@@ -224,3 +224,6 @@ React Router v7を触ってみた。
 
 Day 72：
 React Router v7。
+
+Day 73：
+TypeScriptの日。
