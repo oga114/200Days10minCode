@@ -227,3 +227,6 @@ React Router v7。
 
 Day 73：
 TypeScriptの日。
+
+Day 74：
+TypeScriptの日。
