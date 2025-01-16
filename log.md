@@ -230,3 +230,7 @@ TypeScriptの日。
 
 Day 74：
 TypeScriptの日。
+
+Day 75：
+デバッグの概念についておさらいする。
+TypeScriptの日。
