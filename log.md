@@ -247,3 +247,7 @@ TSのプロジェクトをリファクタリング。
 
 Day 79：
 TypeScriptの日。
+
+Day 80：
+TypeScriptの日。
+AWSまわりの設定。
