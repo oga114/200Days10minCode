@@ -254,3 +254,6 @@ AWSまわりの設定。
 
 Day 81：
 TypeScriptの日。
+
+Day 82：
+TypeScriptの日。
