@@ -263,3 +263,6 @@ TypeScriptの日。
 
 Day 84：
 React×TypeScriptの日。
+
+Day 85：
+ElysiaJSを触ってみる。
