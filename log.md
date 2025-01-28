@@ -269,3 +269,7 @@ ElysiaJSを触ってみる。
 
 Day 86：
 React×TypeScriptの日。
+
+Day 87：
+React×TypeScriptの日。
+dnd-kitの検証。
