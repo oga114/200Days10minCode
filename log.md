@@ -276,3 +276,6 @@ dnd-kitの検証。
 
 Day 88：
 React×TypeScriptの日。
+
+Day 89：
+React×TypeScriptの日。
