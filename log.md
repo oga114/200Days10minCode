@@ -285,3 +285,6 @@ React×TypeScriptの日。
 
 Day 91：
 Laravel×TypeScriptの日。
+
+Day 92：
+TypeScriptの日。
