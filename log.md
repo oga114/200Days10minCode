@@ -288,3 +288,6 @@ Laravel×TypeScriptの日。
 
 Day 92：
 TypeScriptの日。
+
+Day 93：
+TypeScriptの日。
