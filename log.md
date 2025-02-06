@@ -297,3 +297,6 @@ TypeScriptの日。
 
 Day 95：
 TypeScriptの日。
+
+Day 96：
+React×TypeScriptの日。
