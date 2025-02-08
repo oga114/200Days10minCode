@@ -303,3 +303,6 @@ React×TypeScriptの日。
 
 Day 97：
 React×TypeScriptの日。
+
+Day 98：
+NextJS×TypeScriptの日。
