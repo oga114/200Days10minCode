@@ -306,3 +306,6 @@ React×TypeScriptの日。
 
 Day 98：
 NextJS×TypeScriptの日。
+
+Day 99：
+Pythonの日。
