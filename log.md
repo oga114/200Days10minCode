@@ -312,3 +312,6 @@ Pythonの日。
 
 Day 100：
 TypeScriptの日。
+
+Day 101：
+NextJS×TypeScriptの日。
