@@ -315,3 +315,6 @@ TypeScriptの日。
 
 Day 101：
 NextJS×TypeScriptの日。
+
+Day 102：
+TypeScriptの日。
