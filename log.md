@@ -324,3 +324,6 @@ TypeScriptの日。
 
 Day 104：
 TypeScriptの日。
+
+Day 105：
+TypeScriptの日。
