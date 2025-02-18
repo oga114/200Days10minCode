@@ -335,4 +335,6 @@ Day 107：
 TypeScriptの日。
 
 Day 108：
-Developed a web system using TypeScript and fixed the CodeBuild error.
+🔹 Focus: TypeScript & CodeBuild
+✅ Developed a web system using TypeScript
+✅ Fixed the CodeBuild error
