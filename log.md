@@ -356,3 +356,7 @@ Day 111：
 Day 112：
 🔹 Focus:TypeScript
 ✅ Developed a web system using TypeScript
+
+Day 113：
+🔹 Focus:Pyton
+✅ Code Reading
