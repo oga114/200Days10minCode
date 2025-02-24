@@ -360,3 +360,7 @@ Day 112：
 Day 113：
 🔹 Focus:Pyton
 ✅ Code Reading
+
+Day 114：
+🔹 Focus:Pyton
+✅ Code Reading
