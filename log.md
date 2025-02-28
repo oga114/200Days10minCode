@@ -376,3 +376,7 @@ Day 116：
 Day 117：
 🔹 Focus:TypeScript
 ✅ Developed a web system using TypeScript
+
+Day 118：
+🔹 Focus:TypeScript
+✅ Developed a web system using TypeScript
