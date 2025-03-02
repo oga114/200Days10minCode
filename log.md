@@ -386,3 +386,9 @@ Day 119：
 ✅ Code review and fixes
 
 Today was about preparing the development environment.
+
+Day 120：
+🔹 Focus:TypeScript
+✅ Developing a web system with Next.js and TypeScript.
+
+Today, I worked on a Prisma tutorial.
