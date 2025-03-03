@@ -392,3 +392,9 @@ Day 120：
 ✅ Developing a web system with Next.js and TypeScript.
 
 Today, I worked on a Prisma tutorial.
+
+Day 121：
+🔹 Focus:TypeScript
+✅ Developing a web system using TypeScript
+
+Today, I worked on improving the AWS CI/CD pipeline.
