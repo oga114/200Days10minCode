@@ -398,3 +398,9 @@ Day 121：
 ✅ Developing a web system using TypeScript
 
 Today, I worked on improving the AWS CI/CD pipeline.
+
+Day 122：
+🔹 Focus:TypeScript
+✅ Developing a web system using TypeScript
+
+Today, I did a research task.
