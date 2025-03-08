@@ -420,3 +420,7 @@ I feel like I was able to perform as I expected today.Maybe I should have skippe
 Day 125：
 🔹 Focus:TypeScript
 ✅ Developing a web system using TypeScript
+
+Day 126:
+🔹 Focus: Ruby & Python
+✅ Reviewed and corrected Ruby on Rails study materials
