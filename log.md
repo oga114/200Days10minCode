@@ -424,3 +424,7 @@ Day 125：
 Day 126:
 🔹 Focus: Ruby & Python
 ✅ Reviewed and corrected Ruby on Rails study materials
+
+Day 127:
+🔹 Focus: Ruby on Rails
+Today was about preparing the development environment.
