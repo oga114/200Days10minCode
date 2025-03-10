@@ -428,3 +428,7 @@ Day 126:
 Day 127:
 🔹 Focus: Ruby on Rails
 Today was about preparing the development environment.
+
+Day 128:
+🔹 Focus:TypeScript
+✅ Developing a web system using TypeScript
