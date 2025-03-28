@@ -79,7 +79,7 @@ Day 23：
 CSSの日。
 
 Day 24：
-Pythonの日。
+Pythonの日
 
 Day 25：
 TypeScriptの日。
@@ -498,5 +498,9 @@ Day 144:
 ✅ Developing a web system using TypeScript
 
 Day 145:
+🔹 Focus:TypeScript
+✅ Developing a web system using TypeScript
+
+Day 146:
 🔹 Focus:TypeScript
 ✅ Developing a web system using TypeScript
