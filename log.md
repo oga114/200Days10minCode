@@ -504,3 +504,7 @@ Day 145:
 Day 146:
 🔹 Focus:TypeScript
 ✅ Developing a web system using TypeScript
+
+Day 147:
+🔹 Focus:TypeScript
+✅ Developing a web system using TypeScript
