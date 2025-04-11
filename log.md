@@ -556,3 +556,12 @@ Day 157:
 Day 158:
 🔹 Focus:TypeScript
 ✅ Developing a web system using TypeScript
+
+Day 159:
+🔹 Focus: Task Features in ChatGPT / Memory Handling / Productivity
+✅ Investigated how ChatGPT handles "tasks" in both normal and Tasks (Beta) mode
+✅ Confirmed that natural conversation can be used to track task-like content without relying on formal task registration
+✅ Explored limitations of accessing registered tasks or retrieving “the very first chat” automatically
+✅ Reviewed how to enable and use the Tasks (Beta) feature
+✅ Learned that task summaries from past chats can be generated contextually, but not from a unified task list
+✅ Revisited the initial project idea from early interactions as a point of reflection
