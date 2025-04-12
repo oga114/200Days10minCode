@@ -565,3 +565,12 @@ Day 159:
 ✅ Reviewed how to enable and use the Tasks (Beta) feature
 ✅ Learned that task summaries from past chats can be generated contextually, but not from a unified task list
 ✅ Revisited the initial project idea from early interactions as a point of reflection
+
+Day 160:
+🔹 Focus: Docker Container Conflicts / Container Naming / Laravel Deployment
+✅ Investigated how container name conflicts occur between multiple Docker projects
+✅ Learned best practices such as avoiding container_name or using project-specific prefixes
+✅ Explored how to use .env or docker-compose.override.yml to manage per-environment settings
+✅ Outlined deployment steps for Laravel on a VPS (e.g., using nginx + php-fpm + MySQL)
+✅ Understood the Laravel deployment flow when installing directly on a VPS
+✅ Revisited essential steps like editing .env, setting permissions, and generating APP_KEY during
