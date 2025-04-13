@@ -574,3 +574,7 @@ Day 160:
 ✅ Outlined deployment steps for Laravel on a VPS (e.g., using nginx + php-fpm + MySQL)
 ✅ Understood the Laravel deployment flow when installing directly on a VPS
 ✅ Revisited essential steps like editing .env, setting permissions, and generating APP_KEY during
+
+Day 161:
+🔹 Focus:TypeScript
+✅ Developing a web system using TypeScript
