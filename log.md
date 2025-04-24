@@ -618,3 +618,7 @@ Day 170:
 Day 171:
 🔹 Focus:TypeScript
 ✅ Developing a web system using TypeScript
+
+Day 172:
+🔹 Focus:TypeScript
+✅ Developing a web system using TypeScript
