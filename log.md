@@ -718,3 +718,7 @@ Day 196:
 Day 197:
 🔹 Focus:TypeScrip
 ✅ Developing a web system using TypeScript
+
+Day 198:
+🔹 Focus:TypeScrip
+✅ Developing a web system using TypeScript
