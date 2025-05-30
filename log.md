@@ -750,3 +750,7 @@ Day 204:
 Day 205:
 🔹 Focus:TypeScrip
 ✅ Developing a web system using TypeScript
+
+Day 206:
+🔹 Focus:TypeScrip
+✅ Developing a web system using TypeScript
