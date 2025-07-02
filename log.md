@@ -878,3 +878,7 @@ Day 236:
 Day 237:
 🔹 Focus:TypeScrip
 ✅ Developing a web system using TypeScript
+
+Day 238:
+🔹 Focus:TypeScrip
+✅ Developing a web system using TypeScript
