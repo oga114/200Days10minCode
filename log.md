@@ -926,3 +926,7 @@ Day 248:
 Day 249:
 🔹 Focus:TypeScrip
 ✅ Developing a web system using TypeScript
+
+Day 250:
+🔹 Focus:TypeScrip
+✅ Developing a web system using TypeScript
