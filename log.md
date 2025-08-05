@@ -990,3 +990,7 @@ Day 264:
 Day 265:
 🔹 Focus:TypeScrip
 ✅ Developing a web system using TypeScript
+
+Day 266:
+🔹 Focus:TypeScrip
+✅ Developing a web system using TypeScript
