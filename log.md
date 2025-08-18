@@ -1022,3 +1022,7 @@ Day 272:
 Day 273:
 🔹 Focus:TypeScrip
 ✅ Developing a web system using TypeScript
+
+Day 274:
+🔹 Focus:TypeScrip
+✅ Developing a web system using TypeScript
