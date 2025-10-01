@@ -6135,3 +6135,7 @@ Day 296:
 Day 297:
 🔹 Focus:TypeScrip
 ✅ Developing a web system using TypeScript
+
+Day 298:
+🔹 Focus:TypeScrip
+✅ Developing a web system using TypeScript
